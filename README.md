@@ -6,6 +6,21 @@
 - Skills : Java and Kotlin development languages, MVP and MVVM architecture, API consumption, database and Git.
 - Studies: Android Developer [Desafio Latam] && Industrial Design [Universidad de Chile]
 
+
+- 🔭 I’m currently looking for a job
+- 📫 How to reach me: felipe.salazar.di@gmail.com
+- ⚡ Fun fact: I'm a 3D modeler who hopes to develop his own video game.
+
+<br/>
+
+<a href="https://github.com/FISdiz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FISdiz&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FISdiz&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+
 <h1 align="center">
 ✨ where you can find me ✨
   <p align="center"><br/>
@@ -15,6 +30,10 @@
   
   <a href="https://www.instagram.com/saithre_fs/">
     <img src="https://img.shields.io/badge/instagram-saithre_fs-red">
+  </a>
+  
+  <a href="https://drive.google.com/file/d/1_b98fVR4aJIloNPpS5zi891No_0jMcXk/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Design-Portfolio-orange">
   </a>
 </p>
 </h1>
