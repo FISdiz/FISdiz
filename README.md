@@ -14,8 +14,8 @@
 <br/>
 
 <a href="https://github.com/FISdiz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FISdiz&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FISdiz&theme=buefy&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FISdiz&theme=buefy&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FISdiz&theme=buefy&layout=compact" />
 </a>
 
 <br/>
