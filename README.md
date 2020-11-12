@@ -1,8 +1,8 @@
-![Hi 👋, I'm Felipe Salazar, A passionate Android Developer and Industrial Designer 👨‍💻 from Santiago, Chile 🇪🇸](https://user-images.githubusercontent.com/60938212/98966487-164ca100-24ea-11eb-830c-5a80890e108a.png)
+![Hi 👋, I'm Felipe Salazar, A passionate Android Developer and Industrial Designer 👨‍💻 from Santiago, Chile](https://user-images.githubusercontent.com/60938212/98966487-164ca100-24ea-11eb-830c-5a80890e108a.png)
 
 **About Me**
 
-Hi 👋, I'm Felipe Salazar, A passionate Android Developer and Industrial Designer 👨‍💻 from Santiago, Chile 🇪🇸
+Hi 👋, I'm Felipe Salazar, A passionate Android Developer and Industrial Designer 👨‍💻 from Santiago, Chile
 
 - Age : 29y.o
 - Skills : Java and Kotlin development languages, MVP and MVVM architecture, API consumption, database and Git.
