@@ -4,14 +4,14 @@
 
 Hi 👋, I'm Felipe Salazar, A passionate Android Developer and Industrial Designer 👨‍💻 from Santiago, Chile
 
-- Age : 31
+- Age : 32
 - Skills : Java and Kotlin development languages, MVP and MVVM architecture, API consumption, database and Git.
 - Studies: Android Developer [Desafio Latam] && Industrial Design [Universidad de Chile]
 
 
-- 🔭 I’m currently looking for a job
+- 🔭 Currently working as a programmer && IT Assistant
 - 📫 How to reach me: felipe.salazar.di@gmail.com
-- ⚡ Fun fact: I'm a 3D modeler who hopes to develop his own video game.
+- ⚡ Fun fact: I'm a 3D modeler, i do some characters on Blender
 
 <br/>
 
