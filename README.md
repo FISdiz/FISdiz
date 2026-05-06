@@ -33,10 +33,6 @@ Hi 👋, I'm Felipe Salazar, A passionate Android Developer and Industrial Desig
   <a href="https://www.instagram.com/saithre_fs/">
     <img src="https://img.shields.io/badge/instagram-saithre_fs-red">
   </a>
-  
-  <a href="https://drive.google.com/file/d/1_b98fVR4aJIloNPpS5zi891No_0jMcXk/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Design-Portfolio-orange">
-  </a>
 </p>
 </h1>
 
